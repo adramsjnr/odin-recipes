@@ -15,7 +15,7 @@ The goal of the project is to practice working with **basic HTML structure, link
 - A single external stylesheet (`style.css`) is used for consistent styling across all pages.
 
 ## Skills Demonstrated
-By completing this project, I will have practiced:
+By completing this project, I practiced:
 - Structuring HTML pages with headings, paragraphs, lists, and links.
 - Organizing files and directories for a small website.
 - Using relative paths (`../`) to correctly link files between folders.
